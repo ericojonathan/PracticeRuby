@@ -1,0 +1,15 @@
+This is a practice problem to create a method of finding the root of
+a single digit. For example, for a digit of 8, it should return an 8.
+However, if it's 12, for example, it should return 3.
+
+Some other examples,
+
+256 = 2 + 5 + 6
+    = 7 + 6
+    = 13
+    = 4
+
+544 = 5 + 4 + 4
+    = 9 + 4
+    = 13
+    = 4
